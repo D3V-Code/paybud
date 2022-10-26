@@ -22,3 +22,5 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.paybud", appContext.packageName)
     }
 }
+
+// Nice bro

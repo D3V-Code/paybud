@@ -17,6 +17,7 @@ import com.example.paybud.R
 import com.example.paybud.viewmodel.CheckoutViewModel
 import com.example.paybud.databinding.ActivityCheckoutBinding
 
+
 /**
  * Checkout implementation for the app
  */
